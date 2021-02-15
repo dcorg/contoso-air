@@ -24,3 +24,5 @@ npm start
 ```
 
 This will run locally the server and attach to the CosmosDb Endpoint using mongodb connection string.
+
+Updated by Dureksha Wasala
